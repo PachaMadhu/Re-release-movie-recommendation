@@ -7,7 +7,9 @@ The system is built using real survey data and follows a two-model machine learn
 
 📌 Project Overview 
 This project uses 208 real user responses collected via Google Forms to build:
+
 🔹 Model 1:
+
 Interest Prediction (Classification) Algorithm:Logistic Regression 
 Accuracy: ~78%
 Goal: Predict whether a user is interested in watching a re-release 
@@ -15,6 +17,7 @@ Key Features:
 Age, Ticket, price, Theatre visit frequency, Favourite actor, Interest type (nostalgia, actor, story, etc.)
 
 🔹 Model 2: 
+
 Movie Recommendation System Approach:
 Content-Based Filtering Techniques: TF-IDF Vectorization + Cosine Similarity 
 Goal: Recommend Top 5 movies based on user preferences 
