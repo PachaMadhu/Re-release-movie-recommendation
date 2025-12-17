@@ -1,5 +1,6 @@
 Movie Re-Release Prediction & Recommendation System With the growing trend of movie re-releases in India
 this project aims to answer two practical questions: 
+
 Will a user watch a movie re-release?
 Which movie should be recommended to the user? 
 The system is built using real survey data and follows a two-model machine learning approach.
