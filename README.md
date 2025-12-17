@@ -1,5 +1,4 @@
-Movie Re-Release Prediction & Recommendation System
-With the growing trend of movie re-releases in India, 
+Movie Re-Release Prediction & Recommendation System With the growing trend of movie re-releases in India
 this project aims to answer two practical questions: 
 Will a user watch a movie re-release?
 Which movie should be recommended to the user? 
