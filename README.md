@@ -10,7 +10,8 @@ This project uses 208 real user responses collected via Google Forms to build:
 
 🔹 Model 1:
 
-Interest Prediction (Classification) Algorithm:Logistic Regression 
+Interest Prediction (Classification) Algorithm:
+Logistic Regression 
 Accuracy: ~78%
 Goal: Predict whether a user is interested in watching a re-release 
 
