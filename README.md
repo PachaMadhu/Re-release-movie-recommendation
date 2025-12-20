@@ -22,6 +22,7 @@ Movie Recommendation System Approach:
 Content-Based Filtering Techniques: TF-IDF Vectorization + Cosine Similarity 
 Goal: Recommend Top 5 movies based on user preferences 
 Uses: Favourite actors Favourite movies Language User interests 
+
 ✔️ Works well even with limited data (only ~80 movies)
 ✔️ Avoids the cold-start problem common in collaborative filtering
 
